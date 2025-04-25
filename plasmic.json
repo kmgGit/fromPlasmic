@@ -1,0 +1,277 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "inlined",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "qe3ZP67ZfCPuAMjiQbAJmU",
+      "projectApiToken": "BW2etWYwRw7IQa34f6mAdLFg9ce6bl66yRERsPyRTHdcFsjDszCuo2ZLoxDztB4183yadBwygh5ioymoWY6g",
+      "projectName": "Blank website",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_website/plasmic.module.css",
+      "components": [
+        {
+          "id": "pamSFdFEn__G",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "qe3ZP67ZfCPuAMjiQbAJmU",
+          "renderModuleFilePath": "plasmic/blank_website/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/blank_website/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        }
+      ],
+      "icons": [
+        {
+          "id": "XCVGXRNLeJnX",
+          "name": "DropDownIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__DropDown.tsx"
+        },
+        {
+          "id": "q7ngozKCteLg",
+          "name": "UnderLineIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__UnderLine.tsx"
+        },
+        {
+          "id": "Z6s0fOSVCq-i",
+          "name": "Component2Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Component2.tsx"
+        },
+        {
+          "id": "JQZQshEJBLpQ",
+          "name": "WishlistIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Wishlist.tsx"
+        },
+        {
+          "id": "JmQq_1v6JcWY",
+          "name": "Cart1Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Cart1.tsx"
+        },
+        {
+          "id": "beBZUPAkskAm",
+          "name": "UserIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__User.tsx"
+        },
+        {
+          "id": "tRPZmdccETeb",
+          "name": "Line3Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Line3.tsx"
+        },
+        {
+          "id": "CigzUF42G4xc",
+          "name": "Line13Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Line13.tsx"
+        },
+        {
+          "id": "JFGt-DmFgv2x",
+          "name": "Line14Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Line14.tsx"
+        },
+        {
+          "id": "uOX20OLb5dE8",
+          "name": "IconCustomerServiceIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconCustomerService.tsx"
+        },
+        {
+          "id": "897e6CMxWW32",
+          "name": "ShieldTickIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__ShieldTick.tsx"
+        },
+        {
+          "id": "euYFAHFM2BL_",
+          "name": "Group1000005939Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Group1000005939.tsx"
+        },
+        {
+          "id": "Enn_vM8EqiqC",
+          "name": "IconSaleIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconSale.tsx"
+        },
+        {
+          "id": "hDgKboOL4JzP",
+          "name": "IconShoppingBagIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconShoppingBag.tsx"
+        },
+        {
+          "id": "K8FSU9VdcUue",
+          "name": "Group2Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Group2.tsx"
+        },
+        {
+          "id": "8rJTslzOVjHQ",
+          "name": "Group4Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Group4.tsx"
+        },
+        {
+          "id": "Mq1O_UujvaxN",
+          "name": "IconLinkedinIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconLinkedin.tsx"
+        },
+        {
+          "id": "3l5vNz4oQ3CX",
+          "name": "Ellipse7Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Ellipse7.tsx"
+        },
+        {
+          "id": "9RW8ub0g2AZC",
+          "name": "UnderLine2Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__UnderLine2.tsx"
+        },
+        {
+          "id": "y15jmIopEQun",
+          "name": "Group5Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Group5.tsx"
+        },
+        {
+          "id": "f2jAHY_j8eiL",
+          "name": "IconSendIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconSend.tsx"
+        },
+        {
+          "id": "AKMenlR9VScq",
+          "name": "Vector1Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Vector1.tsx"
+        },
+        {
+          "id": "R_Qq70QA1T12",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Vector2.tsx"
+        },
+        {
+          "id": "FV-LDTX0YMpv",
+          "name": "Vector3Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Vector3.tsx"
+        },
+        {
+          "id": "VcoL_EDu7m-2",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__Vector4.tsx"
+        },
+        {
+          "id": "KP5pHlTN_VUw",
+          "name": "IconFacebookIcon",
+          "moduleFilePath": "plasmic/blank_website/icons/PlasmicIcon__IconFacebook.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "Mz529NbZJ4XN",
+          "name": "portrait-two-african-females-holding-shopping-bags-while-reacting-something-their-smartphone 1",
+          "filePath": "plasmic/blank_website/images/portraitTwoAfricanFemalesHoldingShoppingBagsWhileReactingSomethingTheirSmartphone1.jpeg"
+        },
+        {
+          "id": "o0s506HHRGbn",
+          "name": "image 46",
+          "filePath": "plasmic/blank_website/images/image46.png"
+        },
+        {
+          "id": "lNXfCrurV93l",
+          "name": "image 51",
+          "filePath": "plasmic/blank_website/images/image51.png"
+        },
+        {
+          "id": "fyws0tXh1GT9",
+          "name": "image 47",
+          "filePath": "plasmic/blank_website/images/image47.jpeg"
+        },
+        {
+          "id": "DtbfuE4j4l9l",
+          "name": "Qrcode 1",
+          "filePath": "plasmic/blank_website/images/qrcode1.jpeg"
+        },
+        {
+          "id": "BxbnboRtZSE6",
+          "name": "png-transparent-google-play-store-logo-google-play-app-store-android-wallets-text-label-logo",
+          "filePath": "plasmic/blank_website/images/pngTransparentGooglePlayStoreLogoGooglePlayAppStoreAndroidWalletsTextLabelLogo.png"
+        },
+        {
+          "id": "LVxhtKh4Zf8h",
+          "name": "download-appstore",
+          "filePath": "plasmic/blank_website/images/downloadAppstore.png"
+        },
+        {
+          "id": "a80hP9Jt6xf7",
+          "name": "Group 1000005938",
+          "filePath": "plasmic/blank_website/images/group1000005938.svg"
+        },
+        {
+          "id": "qx_D-InKVpuv",
+          "name": "icon-delivery",
+          "filePath": "plasmic/blank_website/images/iconDelivery.svg"
+        },
+        {
+          "id": "SfFuFACRHD7i",
+          "name": "Group",
+          "filePath": "plasmic/blank_website/images/group.svg"
+        },
+        {
+          "id": "wfdvFrMJ5OJ9",
+          "name": "Group 3",
+          "filePath": "plasmic/blank_website/images/group3.svg"
+        },
+        {
+          "id": "ePgmIXbpE8YN",
+          "name": "Group 1000005940",
+          "filePath": "plasmic/blank_website/images/group1000005940.svg"
+        },
+        {
+          "id": "_mEXUKjYm7_x",
+          "name": "Group 6",
+          "filePath": "plasmic/blank_website/images/group6.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "2q-_6z41lA5y",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "_ZyzHe4U9WDW",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "UznC_uvNgxLW",
+        "name": "Screen",
+        "projectId": "qe3ZP67ZfCPuAMjiQbAJmU",
+        "contextFilePath": "plasmic/blank_website/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.337",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.337/dist/plasmic.schema.json"
+}
